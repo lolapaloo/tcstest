@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="test.spec"
+    errors="0" failures="0" hostname="" id="" package="test.spec" skipped="0"
+    tests="4" time="5.291" timestamp="">
+  
+    <testcase name=" onload From-Picker should be &#34;KILO&#34; and To-Picker should be &#34;GRAM&#34;" classname="test.spec" time="1.073" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Both From and to should not be same" classname="test.spec" time="1.422" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Conversions should be correct" classname="test.spec" time="1.361" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="conversions should be done for any pattern" classname="test.spec" time="1.435" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
